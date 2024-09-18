@@ -1,5 +1,6 @@
-# DontJumptoFaultyConclusions
+# Don't Jump to Faulty Conclusions
 R-code for the paper titled "Don’t Jump to Faulty Conclusions: Using the Synthetic Control Method to Evaluate the Effect of a Counterfactual Lockdown in Sweden"
+Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959827
 
 There are three codes:
 * "010 Create Mortality_data.R"
